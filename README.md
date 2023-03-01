@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/isack_nkolima" target="blank"><img src="https://img.shields.io/twitter/follow/isack_nkolima?logo=twitter&style=for-the-badge" alt="isack_nkolima" /></a> </p>
 
-- 🔭 I’m currently working on [chatting-network](https://github.com/MrNkolima/chatting-system)
+- 🔭 I’m currently working on [cryptography](https://github.com/MrNkolima/cryptography)
 
-- 🌱 I’m currently learning *Perl,python-networkings, data-analytics-with-python, camera-systems, database-with-c, android-application-design*
+- 🌱 I’m currently learning *c-cryptography,python-networkings, data-analytics-with-python, camera-systems, , android-application-design*
 
 - 👯 I’m looking to collaborate on [voteme](https://github.com/MrNkolima/voteme)
 
