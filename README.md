@@ -14,15 +14,15 @@
 
 - 🤝 I’m looking for help with [voteme](https://github.com/MrNkolima/voteme)
 
-- 👨‍💻 All of my projects are available at [paradoxmain.github.io](paradoxmain.github.io)
+- 👨‍💻 All of my projects are available at [here](https://paradoxmain.github.io)
 
-- 📝 I regularly write articles on [paradoxmain.github.io](paradoxmain.github.io)
+- 📝 I regularly write articles on [here](https://paradoxmain.github.io/recent-posts.html)
 
-- 💬 Ask me about *php, web-scraping-with-python, bash, opencv-python, front-end-web-design, FOREX*
+- 💬 Ask me about *php, web-scraping-with-python, bash, cryptography, opencv-python, front-end-web-design, FOREX, and data-analytics-with-python*
 
-- 📫 How to reach me *asungulwisye@gmail.com*
+- 📫 How to reach me -  asungulwisye@gmail.com
 
-- 📄 Know about my experiences [paradoxmain.github.io](paradoxmain.github.io)
+- 📄 Know about my experiences [paradoxmain.github.io](https://paradoxmain.github.io)
 
 - ⚡ Fun fact *I'm Basketball player, pencil-drawing-artist. I love playing accoustic guitar and watching Tegulu-Indian Movies.*
 
